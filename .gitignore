@@ -1,0 +1,14 @@
+# IDE 配置文件（PyCharm/IntelliJ）
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+.idea_modules/
+
+# 其他常见可忽略的文件（可选）
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
